@@ -21,7 +21,7 @@ body,html{
     background-color: black;
     position: relative;
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
     grid-row-gap: 5px;
 }
 .image{
